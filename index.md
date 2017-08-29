@@ -4,15 +4,15 @@
   
 目录索引
   
-  [My Blog](/blog)  
+  [My Blog](/blog.md)  
   
-  [APC MainPages](/APC)  
+  [APC MainPages](/APC.md)  
   
-  [Android APP](/appmain)  
+  [Android APP](/appmain.md)  
   
-  [SakuHana Batch Block](/saku)  
+  [SakuHana Batch Block](/saku.md)  
   
-  [Useful Tools Download Page](/tools)  
+  [Useful Tools Download Page](/tools.md)  
   
   
 ***
